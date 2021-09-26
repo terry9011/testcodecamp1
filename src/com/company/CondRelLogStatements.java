@@ -12,6 +12,7 @@ public class CondRelLogStatements {
             System.out.println("buzz");
         }else if (mynumber %5==0  && mynumber % 3==0) {
             System.out.println("FIZZBUZZ");
+
         }
         else System.out.println("fizzbuzz cannot be applied");
 
