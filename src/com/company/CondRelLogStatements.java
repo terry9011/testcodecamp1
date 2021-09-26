@@ -6,6 +6,7 @@ public class CondRelLogStatements {
         // age qualification
         int myAge = 30;
         int mynumber=50;
+
         if(mynumber % 3==0) {
             System.out.println("fizz");
         }else if(mynumber % 5== 0){
