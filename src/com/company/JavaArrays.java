@@ -7,6 +7,7 @@ public class JavaArrays {
     public static void main(String[] args) {
         //create a two dimensional array with 4 rows and 3 colums.Fill only the first colum with any fruits of ur choice
         String[][] FRUITS= new String[4][3];
+
         FRUITS [0][0]="apple";
         FRUITS [1][0]="orange";
         FRUITS [2][0]="mango";
