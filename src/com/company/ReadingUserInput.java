@@ -6,7 +6,6 @@ public class ReadingUserInput {
     public static void main(String[] args) {
         Scanner InputUser= new Scanner(System.in);
         // build a simple interest calculator
-
         System.out.println("simple intrest calculator");
         System.out.println("enter principal amount :");
         int principal= InputUser.nextInt();
